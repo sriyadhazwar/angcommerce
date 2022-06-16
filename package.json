@@ -1,0 +1,20 @@
+{
+  "name": "personalpro",
+  "version": "1.0.0",
+  "description": "Developing a **ShoppingCart (Ecommerce) Application using Angular8**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjana-wijesooriya/E-Commerce-Application-Nodejs-Angular-8-MYSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjana-wijesooriya/E-Commerce-Application-Nodejs-Angular-8-MYSQL/issues"
+  },
+  "homepage": "https://github.com/anjana-wijesooriya/E-Commerce-Application-Nodejs-Angular-8-MYSQL#readme"
+}
